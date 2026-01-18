@@ -1,7 +1,6 @@
-print("Hello World")
-print("itstep")
-x=int(input("Whats ur age?"))
-if x==13:
-    print("Lox")
-else:
-    print("Ok")
+print("Hellow")
+ans = int("Do you wanna say hellow to me? (1-yes, 2-no)")
+if ans == 1:
+    print(":D")
+else :
+    print(":<")
